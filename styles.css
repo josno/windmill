@@ -89,11 +89,11 @@ body {
 }
 
 .blade-two {
-	transform: translate(2%, 3.5rem) rotate(22deg);
+	transform: translate(0%, 4rem) rotate(25deg);
 }
 
 .blade-three {
-	transform: translate(-92%, 3.5rem) rotate(-22deg);
+	transform: translate(-90%, 4rem) rotate(-25deg);
 }
 
 .windmill-container-one,
